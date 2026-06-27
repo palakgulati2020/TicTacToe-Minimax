@@ -17,14 +17,14 @@ A **C++ Tic-Tac-Toe game** with an opponent using **Minimax algorithm with Alpha
 ##  Build & Run
 
 **Compile:**
-```bash
+
 g++ -std=c++17 -o TicTacToe main.cpp Player.cpp Computer.cpp game.cpp Display.cpp
-```
+
 
 **Run:**
-```bash
+
 ./TicTacToe
-```
+
 
 ---
 
@@ -57,7 +57,7 @@ g++ -std=c++17 -o TicTacToe main.cpp Player.cpp Computer.cpp game.cpp Display.cp
 
 ---
 
-## 🏛️ OOP Design
+## OOP Design
 
 **Classes:**
 - `Player` (base) - Human player
