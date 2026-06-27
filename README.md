@@ -1,6 +1,6 @@
-# Tic-Tac-Toe with AI
+# Tic-Tac-Toe 
 
-A **C++ Tic-Tac-Toe game** with an unbeatable AI opponent using **Minimax algorithm with Alpha-Beta Pruning**. Built with **Object-Oriented Programming** principles.
+A **C++ Tic-Tac-Toe game** with an opponent using **Minimax algorithm with Alpha-Beta Pruning**. Built with **Object-Oriented Programming** principles.
 
 ---
 
